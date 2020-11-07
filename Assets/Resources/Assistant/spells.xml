@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<spells>
+  <!-- MAGHI -->
+  <spell id="1" circle="1" name="Clumsy" words="Uus Jux" flag="Harmful" classname="Mage" />
+  <spell id="2" circle="1" name="Create Food" words="In Mani Ylem" flag="Neutral" classname="Mage" />
+  <spell id="3" circle="1" name="Feeblemind" words="Rel Wis" flag="Harmful" classname="Mage" />
+  <spell id="4" circle="1" name="Heal" words="In Mani" flag="Beneficial" classname="Mage" />
+  <spell id="5" circle="1" name="Magic Arrow" words="In Por Ylem" flag="Harmful" classname="Mage" />
+  <spell id="6" circle="1" name="Night Sight" words="In Lor" flag="Beneficial" classname="Mage" />
+  <spell id="7" circle="1" name="Reveal" words="Wis Lor Quas" flag="Neutral" classname="Mage" />
+  <spell id="8" circle="1" name="Weaken" words="Des Mani" flag="Harmful" classname="Mage" />
+  <spell id="9" circle="2" name="Agility" words="Ex Uus" flag="Beneficial" classname="Mage" />
+  <spell id="10" circle="2" name="Cunning" words="Uus Wis" flag="Beneficial" classname="Mage" />
+  <spell id="11" circle="2" name="Cure" words="An Nox" flag="Beneficial" classname="Mage" />
+  <spell id="12" circle="2" name="Harm" words="An Mani" flag="Harmful" classname="Mage" />
+  <spell id="13" circle="2" name="Electric Wave" words="Ort Wek" flag="Harmful" classname="Mage" />
+  <spell id="14" circle="2" name="Acid Drop" words="Uus Nox" flag="Harmful" classname="Mage" />
+  <spell id="15" circle="2" name="Protection" words="Uus Sanct" flag="Beneficial" classname="Mage" />
+  <spell id="16" circle="2" name="Strength" words="Uus Mani" flag="Beneficial" classname="Mage" />
+  <spell id="17" circle="3" name="Bless" words="Rel Sanct" flag="Beneficial" classname="Mage" />
+  <spell id="18" circle="3" name="Fireball" words="Vas Flam" flag="Harmful" classname="Mage" />
+  <spell id="19" circle="3" name="Energy Ball" words="Vas Wek" flag="Harmful" classname="Mage" />
+  <spell id="20" circle="3" name="Poison" words="In Nox" flag="Harmful" classname="Mage" />
+  <spell id="21" circle="3" name="Acid Ball" words="Vas Nox" flag="Harmful" classname="Mage" />
+  <spell id="22" circle="3" name="Teleport" words="Rel Por" flag="Neutral" classname="Mage" />
+  <spell id="23" circle="3" name="Ice Ball" words="Vas Ter" flag="Harmful" classname="Mage" />
+  <spell id="24" circle="3" name="Wall of Stone" words="In Sanct Ylem" flag="Neutral" classname="Mage" />
+  <spell id="25" circle="4" name="Arch Cure" words="Vas An Nox" flag="Beneficial" classname="Mage" />
+  <spell id="26" circle="4" name="Arch Protection" words="Vas Uus Sanct" flag="Beneficial" classname="Mage" />
+  <spell id="27" circle="4" name="Curse" words="Des Sanct" flag="Harmful" classname="Mage" />
+  <spell id="28" circle="4" name="Fire Field" words="In Flam Grav" flag="Neutral" classname="Mage" />
+  <spell id="29" circle="4" name="Greater Heal" words="In Vas Mani" flag="Beneficial" classname="Mage" />
+  <spell id="30" circle="4" name="Lightning" words="Por Ort Grav" flag="Harmful" classname="Mage" />
+  <spell id="31" circle="4" name="Mana Drain" words="Ort Rel" flag="Harmful" classname="Mage" />
+  <spell id="32" circle="4" name="Recall" words="Kal Ort Por" flag="Neutral" classname="Mage" />
+  <spell id="33" circle="5" name="Blade Spirits" words="In Jux Hur Ylem" flag="Neutral" classname="Mage" />
+  <spell id="34" circle="5" name="Dispel Field" words="An Grav" flag="Neutral" classname="Mage" />
+  <spell id="35" circle="5" name="Incognito" words="Kal In Ex" flag="Neutral" classname="Mage" />
+  <spell id="36" circle="5" name="Magic Reflection" words="In Jux Sanct" flag="Beneficial" classname="Mage" />
+  <spell id="37" circle="5" name="Icicle Strike" words="Kal Uus Ter" flag="Harmful" classname="Mage" />
+  <spell id="38" circle="5" name="Paralyze" words="An Ex Por" flag="Harmful" classname="Mage" />
+  <spell id="39" circle="5" name="Vitriol" words="Zu Corp Nox" flag="Harmful" classname="Mage" />
+  <spell id="40" circle="5" name="Summon Creature" words="Kal Xen" flag="Neutral" classname="Mage" />
+  <spell id="41" circle="6" name="Dispel" words="An Ort" flag="Neutral" classname="Mage" />
+  <spell id="42" circle="6" name="Cold Explosion" words="Vas Ort Ter" flag="Harmful" classname="Mage" />
+  <spell id="43" circle="6" name="Explosion" words="Vas Ort Flam" flag="Harmful" classname="Mage" />
+  <spell id="44" circle="6" name="Invisibility" words="An Lor Xen" flag="Beneficial" classname="Mage" />
+  <spell id="45" circle="6" name="Mark" words="Kal Por Ylem" flag="Neutral" classname="Mage" />
+  <spell id="46" circle="6" name="Mass Curse" words="Vas Des Sanct" flag="Harmful" classname="Mage" />
+  <spell id="47" circle="6" name="Paralyze Field" words="In Ex Grav" flag="Neutral" classname="Mage" />
+  <spell id="48" circle="6" name="Acid Corrosion" words="In Jux Nox" flag="Harmful" classname="Mage" />
+  <spell id="49" circle="7" name="Chain Lightning" words="Vas Ort Grav" flag="Harmful" classname="Mage" />
+  <spell id="50" circle="7" name="Energy Field" words="In Sanct Grav" flag="Neutral" classname="Mage" />
+  <spell id="51" circle="7" name="Flame Strike" words="Kal Vas Flam" flag="Harmful" classname="Mage" />
+  <spell id="52" circle="7" name="Gate Travel" words="Vas Rel Por" flag="Neutral" classname="Mage" />
+  <spell id="53" circle="7" name="Mana Vampire" words="Ort Sanct" flag="Harmful" classname="Mage" />
+  <spell id="54" circle="7" name="Mass Dispel" words="Vas An Ort" flag="Neutral" classname="Mage" />
+  <spell id="55" circle="7" name="Meteor Swarm" words="Flam Kal Des Ylem" flag="Harmful" classname="Mage" />
+  <spell id="56" circle="7" name="Polymorph" words="Vas Ylem Rel" flag="Neutral" classname="Mage" />
+  <spell id="57" circle="8" name="Earthquake" words="In Vas Por" flag="Harmful" classname="Mage" />
+  <spell id="58" circle="8" name="Energy Vortex" words="Vas Corp Por" flag="Neutral" classname="Mage" />
+  <spell id="59" circle="8" name="Resurrection" words="An Corp" flag="Beneficial" classname="Mage" />
+  <spell id="60" circle="8" name="Summon Air Elemental" words="Kal Vas Xen Hur" flag="Neutral" classname="Mage" />
+  <spell id="61" circle="8" name="Summon Daemon" words="Kal Vas Xen Corp" flag="Neutral" classname="Mage" />
+  <spell id="62" circle="8" name="Summon Earth Elemental" words="Kal Vas Xen Ylem" flag="Neutral" classname="Mage" />
+  <spell id="63" circle="8" name="Summon Fire Elemental" words="Kal Vas Xen Flam" flag="Neutral" classname="Mage" />
+  <spell id="64" circle="8" name="Summon Water Elemental" words="Kal Vas Xen An Flam" flag="Neutral" classname="Mage" />
+
+  <!-- NECROMANTI -->
+  <spell id="101" circle="10" name="Rianima Morti" words="Uus An Corp" flag="Neutral" classname="Necromancer" />
+  <spell id="102" circle="10" name="Patto del Sangue" words="In Jux Xen Mani" flag="Harmful" classname="Necromancer" />
+  <spell id="103" circle="10" name="Pelle Morta" words="In Corp Agle Ylem" flag="Harmful" classname="Necromancer" />
+  <spell id="104" circle="10" name="Lama del Sangue" words="An Sanct Vitae" flag="Beneficial" classname="Necromancer" />
+  <spell id="105" circle="10" name="Presagio Infernale" words="Pas An Omen" flag="Harmful" classname="Necromancer" />
+  <spell id="106" circle="10" name="Forma Bestiale" words="Rel Xen Vas Bal" flag="Neutral" classname="Necromancer" />
+  <spell id="107" circle="10" name="Forma di Lich" words="Rel Xen Corp Ort" flag="Neutral" classname="Necromancer" />
+  <spell id="108" circle="10" name="Mente Corrotta" words="Wis An Ben" flag="Harmful" classname="Necromancer" />
+  <spell id="109" circle="10" name="Supplizio Infernale" words="In Sar" flag="Harmful" classname="Necromancer" />
+  <spell id="110" circle="10" name="Onda Venefica" words="In Vas Nox" flag="Harmful" classname="Necromancer" />
+  <spell id="111" circle="10" name="Strangola" words="In Bal Nox" flag="Harmful" classname="Necromancer" />
+  <spell id="112" circle="10" name="Evoca Famiglio" words="Kal Xen Bal" flag="Neutral" classname="Necromancer" />
+  <spell id="113" circle="10" name="Sguardo Ardente" words="Doleo" flag="Harmful" classname="Necromancer" />
+  <spell id="114" circle="10" name="Vendicatore" words="Kal Xen Bal Beh" flag="Harmful" classname="Necromancer" />
+  <spell id="115" circle="10" name="Nebbia Gelida" words="Ethr Kal Des Ylem" flag="Harmful" classname="Necromancer" />
+  <spell id="116" circle="10" name="Forma Spettrale" words="Rel Xen Um" flag="Neutral" classname="Necromancer" />
+  <spell id="117" circle="10" name="Carne in Pietra" words="In Sanct Corp Ylem" flag="Harmful" classname="Necromancer" />
+  <spell id="118" circle="10" name="Onda del Caos" words="In Kal Inferus" flag="Harmful" classname="Necromancer" />
+  <spell id="119" circle="10" name="Scongiuro" words="" flag="Neutral" classname="Necromancer" />
+  <spell id="120" circle="10" name="Armatura d'Ossa" words="Kal In Por Inferus" flag="Neutral" classname="Necromancer" />
+  <spell id="121" circle="10" name="Trasmuta Acqua" words="An Vitae Nox" flag="Neutral" classname="Necromancer" />
+
+  <!-- CHIERICI -->
+  <spell id="201" circle="20" name="Forza Divina" words="Angelus Terum" flag="Neutral" classname="Cleric" />
+  <spell id="202" circle="20" name="Bandire il Male" words="Abigo Malus" flag="Harmful" classname="Cleric" />
+  <spell id="203" circle="20" name="Benedici Acqua" words="Benedictum" flag="Neutral" classname="Cleric" />
+  <spell id="204" circle="20" name="Muro di Spade" words="Spatha Terum" flag="Harmful" classname="Cleric" />
+  <spell id="205" circle="20" name="Spirito Infranto" words="Abicio Spiritus" flag="Harmful" classname="Cleric" />
+  <spell id="206" circle="20" name="Focus Divino" words="Divinium Cogitatus" flag="Beneficial" classname="Cleric" />
+  <spell id="207" circle="20" name="Martello di Fede" words="Malleus Terum" flag="Neutral" classname="Cleric" />
+  <spell id="208" circle="20" name="Luce Sacra" words="Abigo Tenebrae" flag="Beneficial" classname="Cleric" />
+  <spell id="209" circle="20" name="Varco Celestiale" words="Viam Patefacio" flag="Neutral" classname="Cleric" />
+  <spell id="210" circle="20" name="Marchio Divino" words="Notae Superna" flag="Neutral" classname="Cleric" />
+  <spell id="211" circle="20" name="Preghiera" words="" flag="Neutral" classname="Cleric" />
+  <spell id="212" circle="20" name="Epurare" words="Repurgo" flag="Beneficial" classname="Cleric" />
+  <spell id="213" circle="20" name="Resurrezione" words="Reductio Aetas" flag="Beneficial" classname="Cleric" />
+  <spell id="214" circle="20" name="Dono Sacro" words="Vir Consolatio" flag="Beneficial" classname="Cleric" />
+  <spell id="215" circle="20" name="Sacrificio" words="Adoleo" flag="Neutral" classname="Cleric" />
+  <spell id="216" circle="20" name="Punire" words="Ferio" flag="Harmful" classname="Cleric" />
+  <spell id="217" circle="20" name="Tocco di Vita" words="Tactus Vitalis" flag="Beneficial" classname="Cleric" />
+  <spell id="218" circle="20" name="Scudo di Fuoco" words="Temptatio Exsuscito" flag="Neutral" classname="Cleric" />
+  <spell id="219" circle="20" name="Guardiano Divino" words="Voco Divinum" flag="Neutral" classname="Cleric" />
+  <spell id="220" circle="20" name="Sferzata di Luce" words="Lendo" flag="Harmful" classname="Cleric" />
+
+  <!-- BARDI -->
+  <spell id="501" circle="50" name="Armata di Paeon" words="Paeonus" flag="Beneficial" classname="Bard" />
+  <spell id="502" circle="50" name="Etude Incantevole" words="Enchantendre" flag="Beneficial" classname="Bard" />
+  <spell id="503" circle="50" name="Aria d'Energia" words="Energious" flag="Beneficial" classname="Bard" />
+  <spell id="504" circle="50" name="Boato d'Energia" words="Enerdeficient" flag="Harmful" classname="Bard" />
+  <spell id="505" circle="50" name="Aria del Fuoco" words="Inflammabus" flag="Beneficial" classname="Bard" />
+  <spell id="506" circle="50" name="Boato del Fuoco" words="Flammabus" flag="Harmful" classname="Bard" />
+  <spell id="507" circle="50" name="Requiem" words="Sonicus" flag="Harmful" classname="Bard" />
+  <spell id="508" circle="50" name="Aria del Gelo" words="Insulatus" flag="Beneficial" classname="Bard" />
+  <spell id="509" circle="50" name="Boato del Gelo" words="Chillinum" flag="Harmful" classname="Bard" />
+  <spell id="510" circle="50" name="Danza di Guerra" words="Resistus" flag="Beneficial" classname="Bard" />
+  <spell id="511" circle="50" name="Ballata del Mago" words="Mentus" flag="Beneficial" classname="Bard" />
+  <spell id="512" circle="50" name="Magic Finale" words="Dispersus" flag="Neutral" classname="Bard" />
+  <spell id="513" circle="50" name="Aria del Veleno" words="Antidotus" flag="Beneficial" classname="Bard" />
+  <spell id="514" circle="50" name="Boato del Veleno" words="Infectus" flag="Harmful" classname="Bard" />
+  <spell id="515" circle="50" name="Ritirata" words="Fugitivus" flag="Neutral" classname="Bard" />
+  <spell id="516" circle="50" name="Sonetto Agile" words="Facilitus" flag="Beneficial" classname="Bard" />
+  <spell id="517" circle="50" name="Canto dell'Eroe" words="Fortitus" flag="Beneficial" classname="Bard" />
+</spells>
