@@ -12,7 +12,7 @@ If you would like to compile the client yourself you will need:
 
 - unity with 2019.4.12f1 installed
 - android sdk 30+ for android phones and tablets
-- ios 12+ phone/tablet will require the latest xcode installed
+- latest xcode app installed on your MAC PC, for iPhone and iPad, with iOS 12+
 - visual studio 2019 community edition for windows
 
 all the graphic has been stripped from the available package, since icons and internal graphics are NOT useable without prior written permission.
